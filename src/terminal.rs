@@ -17,6 +17,8 @@ impl Terminal {
         longest_left: usize,
         primary: Color,
     ) {
+        println!();
+        println!();
         let half_width = (self.width / 2) as usize;
         let mut to_print = String::new();
         while let Some(left) = left.next() {
@@ -41,5 +43,7 @@ impl Terminal {
         }
 
         print!("{}", to_print);
+        println!();
+        println!();
     }
 }

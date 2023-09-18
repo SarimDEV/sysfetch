@@ -1,3 +1,3 @@
 # SysFetch
 
-![Ocean Theme](../extra/ocean.jpg);
+![Ocean Theme](./extra/ocean.jpeg);
