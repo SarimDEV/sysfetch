@@ -13,3 +13,7 @@
 ### Limitations
 - **Only MacOS**: Expanding capability to Linux and Windows
 
+## Installation
+```bash
+brew tap sarimdev/sysfetch && brew install sysfetch
+```
